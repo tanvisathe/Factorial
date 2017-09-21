@@ -1,0 +1,6 @@
+C:\Users\Tanvi\Documents\Visual Studio 2017\Projects\FactorialExtended\FactorialExtended\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Tanvi\Documents\Visual Studio 2017\Projects\FactorialExtended\FactorialExtended\obj\Debug\FactorialExtended.exe
+C:\Users\Tanvi\Documents\Visual Studio 2017\Projects\FactorialExtended\FactorialExtended\obj\Debug\FactorialExtended.pdb
+C:\Users\Tanvi\Documents\Visual Studio 2017\Projects\FactorialExtended\FactorialExtended\bin\Debug\FactorialExtended.exe.config
+C:\Users\Tanvi\Documents\Visual Studio 2017\Projects\FactorialExtended\FactorialExtended\bin\Debug\FactorialExtended.exe
+C:\Users\Tanvi\Documents\Visual Studio 2017\Projects\FactorialExtended\FactorialExtended\bin\Debug\FactorialExtended.pdb
